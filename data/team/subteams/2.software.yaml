@@ -39,12 +39,12 @@ members:
       email: pranavpy0@gmail.com
     subteam: ROS Developers
 
-  - name: Tushar Panjeta
-    avatar: tushar.jpg
-    social:
-        email: cs20b1098@iiitdm.ac.in
-        github: tushar7770
-    subteam: ROS Developers
+  # - name: Tushar Panjeta
+  #   avatar: tushar.jpg
+  #   social:
+  #       email: cs20b1098@iiitdm.ac.in
+  #       github: tushar7770
+  #   subteam: ROS Developers
 
   - name: Manas Narayan
     avatar: manas.jpeg
