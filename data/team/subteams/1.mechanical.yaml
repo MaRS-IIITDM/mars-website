@@ -49,16 +49,16 @@ members:
     avatar: saikat.jpeg
     leader: true
     social:
-      email: me21b1008@iiitdm.ac.in
-      linkedin: 
+      email: saikatpaul2102@gmail.com
+      linkedin: paul-717279258
     subteam: Mechanical
 
-  - name: KSL Sanjana
-    avatar: sanjana.jpg
-    social:
-      email: sanjxksl@gmail.com
-      linkedin: sanjana-ksl-a525b8221
-    subteam: Mechanical
+  # - name: KSL Sanjana
+  #   avatar: sanjana.jpg
+  #   social:
+  #     email: sanjxksl@gmail.com
+  #     linkedin: sanjana-ksl-a525b8221
+  #   subteam: Mechanical
 
   - name: Pranav P R
     avatar: pranavpr.png

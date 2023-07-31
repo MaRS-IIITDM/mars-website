@@ -49,8 +49,9 @@ members:
   - name: Manas Narayan
     avatar: manas.jpeg
     social:
-      email: ec21b1006@iiitdm.ac.in
+      email: manasnarayan2023@gmail.com
       github: ec21b1006
+      linkedin: manas-narayan-bb1723232
     subteam: ROS Developers
 
   - name: Vishnuram AV
@@ -64,8 +65,9 @@ members:
     avatar: sibi.jpg
     leader: true
     social:
-      email: ec21b1042@iiitdm.ac.in
+      email: dynamist.sb@gmail.com
       github: camelotsb
+      linkedin: sibi-m-a85725228
     subteam: ROS Developers
 
 
