@@ -11,11 +11,11 @@ members:
       email: ec21b1112@iiidm.ac.in
     subteam: Electronics 
 
-  - name: Thribhuvan Sunkavalli
-    avatar: thribhuvan.png
-    social:
-      email: ec21b1093@iiidm.ac.in
-    subteam: Electronics
+  # - name: Thribhuvan Sunkavalli
+  #   avatar: thribhuvan.png
+  #   social:
+  #     email: ec21b1093@iiidm.ac.in
+  #   subteam: Electronics
 
   - name: Vashist Managari
     avatar: vashist.png
