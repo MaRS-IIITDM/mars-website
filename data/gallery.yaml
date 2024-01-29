@@ -1,42 +1,49 @@
 section:
-  title: Gallery
+  title: Recent Competition
   description: |
-    A glimpse of the moments of work culture at mars rover society.
+    A glimpse of tasks in International Rover Challenge
 
 images:
-  - path: 15.jpeg
-  - path: 16.jpeg
-  - path: 17.jpeg
-  - path: 18.jpeg
-  - path: 19.jpeg
-  - path: 20.jpeg
-  - path: 21.jpeg
-  - caption: MaRS first gathering
-    path: 1.jpeg
-  - caption: Photo with Faculty Advisor
-    path: 2.jpeg
-  - caption: Remote Meetings
-    path: 12.jpeg
-  - caption: Photo4
-    path: 11.jpeg
-  - caption: Photo5
-    path: 5.jpeg
-  - caption: Photo6
-    path: 6.jpeg
-  - caption: Photo7
-    path: 7.jpeg
-  - caption: Photo8
-    path: 8.jpeg
-  - caption: Photo9
-    path: 9.jpeg
-  - caption: Photo10
-    path: 10.jpeg
-  - caption: Photo11
-    path: 4.jpeg
-  - caption: Photo12
-    path: 3.jpeg
-  - caption: Photo13
-    path: 13.jpeg
-  - caption: Photo14
-    path: 14.jpeg
+  - path: IRC-1.png
+  - path: IRC-2.png
+  - path: IRC-3.png
+  - path: IRC-4.png
+  - path: IRC-5.png
+  - path: IRC-6.png
+  - path: IRC-7.png
+  # - path: 15.jpeg
+  # - path: 16.jpeg
+  # - path: 17.jpeg
+  # - path: 18.jpeg
+  # - path: 19.jpeg
+  # - path: 20.jpeg
+  # - path: 21.jpeg
+  # - caption: MaRS first gathering
+  #   path: 1.jpeg
+  # - caption: Photo with Faculty Advisor
+  #   path: 2.jpeg
+  # - caption: Remote Meetings
+  #   path: 12.jpeg
+  # - caption: Photo4
+  #   path: 11.jpeg
+  # - caption: Photo5
+  #   path: 5.jpeg
+  # - caption: Photo6
+  #   path: 6.jpeg
+  # - caption: Photo7
+  #   path: 7.jpeg
+  # - caption: Photo8
+  #   path: 8.jpeg
+  # - caption: Photo9
+  #   path: 9.jpeg
+  # - caption: Photo10
+  #   path: 10.jpeg
+  # - caption: Photo11
+  #   path: 4.jpeg
+  # - caption: Photo12
+  #   path: 3.jpeg
+  # - caption: Photo13
+  #   path: 13.jpeg
+  # - caption: Photo14
+  #   path: 14.jpeg
     
